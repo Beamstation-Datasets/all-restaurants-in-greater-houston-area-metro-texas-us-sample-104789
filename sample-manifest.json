@@ -1,12 +1,12 @@
 {
-  "export_job_id": "23eefaa8-f628-483c-bc29-398f38f9b7f6",
+  "export_job_id": "bea22684-9cca-4d0f-828c-325bddef88bc",
   "id_short": 104789,
-  "published_at": "2026-04-19T19:35:09Z",
+  "published_at": "2026-04-23T19:46:32Z",
   "repo_name": "all-restaurants-in-greater-houston-area-metro-texas-us-sample-104789",
   "sample_asset_name": "beamstation_104789_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/104789/beamstation_104789_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "71695d093b4f5da3814418dd7f48e3de7b8043e12dc7ac7cd3774253792bafac",
-  "sample_size_bytes": 3094030,
-  "total_records": 18679
+  "sample_sha256": "6f0a7a3c114bab05fe661e37925ed3e3f2a52e00251d22b332f9601a1dbf0850",
+  "sample_size_bytes": 3094963,
+  "total_records": 15020
 }
