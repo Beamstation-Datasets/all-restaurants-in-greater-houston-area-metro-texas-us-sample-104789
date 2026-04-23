@@ -9,9 +9,9 @@
 | Dataset ID | `104789` |
 | Location | Houston-Pasadena-The Woodlands, TX |
 | Category | Restaurants |
-| Full dataset size | 18,679 records |
-| Free sample size | 1,000 records (5.35%) |
-| Last export | 2026-04-16T23:54:57.772097+00:00 |
+| Full dataset size | 15,020 records |
+| Free sample size | 1,000 records (6.66%) |
+| Last export | 2026-04-23T18:18:17.107390+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-houston-area-metro-texas-us-sample-104789/releases/download/sample-latest/beamstation_104789_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
