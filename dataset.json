@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive restaurant data for the Greater Houston metro area including Pasadena and The Woodlands. Captures the rich culinary diversity of the Texas Gulf Coast market, filtered by the Restaurants category group. Features business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Houston Area (Metro), Texas, US",
-  "export_job_id": "23eefaa8-f628-483c-bc29-398f38f9b7f6",
+  "export_job_id": "bea22684-9cca-4d0f-828c-325bddef88bc",
   "github_org": "Beamstation-Datasets",
   "id_short": 104789,
   "location_name": "Houston-Pasadena-The Woodlands, TX",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-houston-area-metro-texas-us-sample-104789",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/104789/beamstation_104789_restaurants-us-houstonpasadenathewoodlandstx_SAMPLE_DIST.csv",
-  "sample_pct": 5.35,
+  "sample_pct": 6.66,
   "sample_records": 1000,
-  "sample_sha256": "71695d093b4f5da3814418dd7f48e3de7b8043e12dc7ac7cd3774253792bafac",
-  "sample_size_bytes": 3094030,
-  "total_records": 18679,
-  "updated_at": "2026-04-16T23:54:57.772097+00:00"
+  "sample_sha256": "6f0a7a3c114bab05fe661e37925ed3e3f2a52e00251d22b332f9601a1dbf0850",
+  "sample_size_bytes": 3094963,
+  "total_records": 15020,
+  "updated_at": "2026-04-23T18:18:17.107390+00:00"
 }
